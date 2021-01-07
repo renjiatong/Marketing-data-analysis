@@ -1,0 +1,18 @@
+Jupyter notebook shortcut
+1. shift + enter (run)
+2. # (comment)
+3. edit mode -> green mode
+   command mode -> blue mode
+4. esc switch to blue mode
+5. add a new block in command mode
+   b -> add below
+   a -> add above 
+   d+d -> delete a block
+   z -> return
+   s -> save
+6. how to close a notebook?
+        kernel -> shutdown
+        check -> shutdown
+       
+       
+Pandas
